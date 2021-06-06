@@ -21,6 +21,8 @@ Data Analysis
 - 각 Node 사이의 거리는 이에 대응하는 edge의 weight에 비례하도록 Node들을 지도상에 재배치. (by Fruchterman Rinegold layout in Gephi)
 - 위의 과정을 통해 얻은 건물 배치도에 따라 강의를 배정할 경우, 학생들의 이동 동선이 최소화 될 것.
 
+
+
 # <Project 2. 지하철 플랫폼 혼잡도 예측>
 Link : https://github.com/Won-Ryeol/subway-conjestion-analysis
 
@@ -47,6 +49,8 @@ Training
 
 Conclusion
 - Validation 결과, 87% 이상의 accuracy로 혼잡도 예측 가능.
+
+
 
 # <Project 3. 리그오브레전드 정글러 갱킹 선호도 분석>
 Link : https://github.com/Won-Ryeol/LOL_jungler_analysis/blob/master/Jungle_User_Analysis.ipynb
